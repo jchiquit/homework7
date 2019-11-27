@@ -6,7 +6,7 @@ $(document).ready(function(){
       return true
     }
     else{
-      alert("standing");
+      alert("You must pick a standing!");
         return false;
     }
   })
@@ -16,7 +16,7 @@ $(document).ready(function(){
       return true
     }
     else{
-      alert("pick a fruit bitch!");
+      alert("You must pick a fruit!");
         return false;
     }
   })
